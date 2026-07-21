@@ -1,0 +1,8 @@
+{
+  "mode": "paper",
+  "starting_balance": 1000,
+  "max_stake": 25,
+  "max_exposure": 100,
+  "min_confidence": 0.6,
+  "tick_interval": "30s"
+}
